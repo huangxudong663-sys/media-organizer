@@ -1,0 +1,9 @@
+# Optional dependencies for enhanced performance and parsing
+python-dateutil
+exiftool (system)
+ffmpeg/ffprobe (system)
+# Optional Python libs
+xxhash  # for fast dedupe (optional)
+anthropic
+openai
+reverse_geocoder
